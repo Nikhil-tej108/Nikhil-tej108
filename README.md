@@ -7,6 +7,11 @@
 - 📽️ Turning sci-fi ideas into real-world solutions &mdash; it's for real, believe me :)
 - 😄**Pronouns:** He/Him
 
+### 🎯 Current Mission
+- 🤖 **Learning AI/ML** to build intelligent solutions
+- 🌐 **Building** modern web applications
+- 💡 **Contributing** to open-source projects
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -37,19 +42,27 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-tej108&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" width="48%" />
-</p>
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil-tej108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=00D9FF&text_color=FFFFFF&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-tej108&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_radius=15"/>
+  
+  ### 🏅 LeetCode Progress
+  <a href="https://leetcode.com/u/nikhiltej99/" target="_blank">
+   <img src="https://leetcard.jacoblin.cool/nikhiltej99?theme=unicorn&font=Nunito&ext=contest" alt="LeetCode Stats" />
+  </a>
+  
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-tej108&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
-</p>
 
 ---
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/b-nikhil-tej-5911322a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nikhiltej99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" />
+  </a>
   <a href="https://leetcode.com/u/nikhiltej99/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
 
