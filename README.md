@@ -71,6 +71,6 @@
 
 <p align="center"><i>“Success is the sum of small efforts,repeated day in and day out”</i></p>
 ---
-
+[![An image of @nikhiltej108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhiltej108)](https://holopin.io/@nikhiltej108)
 
 
